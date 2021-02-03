@@ -18,4 +18,5 @@ The purpose of this project is to develop an android mobile application for conv
 ![2](https://user-images.githubusercontent.com/42187285/106790324-1200d180-665c-11eb-8a6c-4005ef39fb19.PNG)
 
 3. Part for convert the sign to text and voice: We set the OpenCV library to use it in the image processing steps.
+
 ![3](https://user-images.githubusercontent.com/42187285/106790461-45dbf700-665c-11eb-93d7-a34111b37c4d.PNG)
